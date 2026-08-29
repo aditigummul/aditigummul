@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Aditi 👋
 
-<!--
-**aditigummul/aditigummul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### IT Infrastructure | Networking | Cloud | AI
 
-Here are some ideas to get you started:
+I’m an Inside Sales Representative focused on helping businesses build secure, scalable and reliable IT environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Areas of Interest
+
+- IT Infrastructure & Networking
+- Cloud Solutions
+- Cybersecurity
+- AI & Automation
+- Network Security
+- Enterprise Technology Solutions
+
+### 💼 What I Do
+
+I work with businesses to understand their technology requirements and connect them with the right IT solutions across infrastructure, networking, cloud and security.
+
+### 📚 Currently Learning
+
+- Cloud & Network Security
+- AI-driven Enterprise Solutions
+- Software-Defined Networking
+- Automation & Emerging Technologies
+
+### 🤝 Let's Connect
+
+Interested in technology, enterprise IT solutions, networking and AI.
+
+Feel free to connect and collaborate!
