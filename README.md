@@ -1,31 +1,50 @@
-# Hi, I'm Aditi 👋
+# Hi, I'm Aditi Gummul 👋
 
-### IT Infrastructure | Networking | Cloud | AI
+### Business Development Manager | IT Infrastructure | Cybersecurity | Cloud | AI
 
-I’m an Inside Sales Representative focused on helping businesses build secure, scalable and reliable IT environments.
+I am a Business Development professional with experience in B2B IT sales, enterprise technology solutions and account development.
 
-### 🚀 Areas of Interest
+### 💼 What I Work On
 
-- IT Infrastructure & Networking
-- Cloud Solutions
+- Business Development & Enterprise Sales
+- IT Infrastructure Solutions
+- Cybersecurity & Data Protection
+- Cloud Solutions – AWS & Microsoft Azure
+- AI Infrastructure & AI Solutions
+- Data Governance & DPDP Compliance
+- Account Management & Customer Engagement
+- Lead Generation, Prospecting & Sales Strategy
+
+### 🛠️ Technology Areas
+
+- Networking
 - Cybersecurity
-- AI & Automation
-- Network Security
-- Enterprise Technology Solutions
-
-### 💼 What I Do
-
-I work with businesses to understand their technology requirements and connect them with the right IT solutions across infrastructure, networking, cloud and security.
+- Cloud Computing
+- Data Protection
+- AI Infrastructure
+- SASE & Zero Trust
+- Data Center Solutions
 
 ### 📚 Currently Learning
 
-- Cloud & Network Security
-- AI-driven Enterprise Solutions
-- Software-Defined Networking
-- Automation & Emerging Technologies
+- Power BI
+- Python
+- AI & Generative AI
+- Cloud & Cybersecurity
+- Sales Analytics
 
-### 🤝 Let's Connect
+### 📂 Featured Projects
 
-Interested in technology, enterprise IT solutions, networking and AI.
+- Networking & Cloud Notes
+- Cybersecurity & Cloud Notes
+- DPDP Compliance Notes
+- IT Business Development Playbook
+- Sales Analytics & Dashboard
 
-Feel free to connect and collaborate!
+### 🎯 Career Focus
+
+Building expertise at the intersection of **Technology, Business Development and Enterprise Solutions**.
+
+---
+
+📫 Connect with me on LinkedIn
